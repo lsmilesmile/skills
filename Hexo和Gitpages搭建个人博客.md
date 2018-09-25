@@ -44,7 +44,7 @@ Git
 
   其中的deploy部分按照图中修改，repo即github仓库的地址，如下图粉红色标记的部分：（**注：deploy部分的type，repo，branch刚开始都是与reploy对齐的，这里把它们缩进一下，不然到后面执行相关命令时是个大坑啊。。。且该配置文件中每个冒号“：”后面必须有一个空格**）
 
-  ![](C:\Users\lsmil\Desktop\skills\images\13.png)
+  ![](.\images\13.png)
 
 
 
@@ -78,7 +78,7 @@ hexo d
 
 **注1：我们写的博客一般是放在source/\_post文件夹下的**
 
-![](C:\Users\lsmil\Desktop\skills\images\15.png)
+![](.\images\15.png)
 
 **注2：还有就是在这里执行hexo d指令时会出现以下错误**
 
