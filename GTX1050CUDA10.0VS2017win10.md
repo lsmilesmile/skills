@@ -22,35 +22,35 @@ cudnn下载需要先注册登录后才能下载，[cudnn官网](https://develope
 
 我选的默认路径：
 
-![](E:/documents/repositories/skills/images/74.png)
+![](./images/74.png)
 
-![](E:/documents/repositories/skills/images/75.png)
+![](./images/75.png)
 
-![](E:/documents/repositories/skills/images/76.png)
+![](./images/76.png)
 
 同意并继续
 
-![](E:/documents/repositories/skills/images/77.png)
+![](./images/77.png)
 
 我选择的是精简，下一步
 
-![](E:/documents/repositories/skills/images/78png.png)
+![](./images/78png.png)
 
-![](E:/documents/repositories/skills/images/79.png)
+![](./images/79.png)
 
 继续下一步
 
-![](E:/documents/repositories/skills/images/80.png)
+![](./images/80.png)
 
 点击关闭
 
 由于我安装的默认路径，所以将C:\Program Files\NVIDIA Corporation\NVSMI添加到系统环境变量
 
-![](E:/documents/repositories/skills/images/82.png)
+![](./images/82.png)
 
 检查是否安装好，在命令行输入nvcc -V，若出现一下版本信息则表示安装成功：
 
-![](E:/documents/repositories/skills/images/81.png)
+![](./images/81.png)
 
 
 
@@ -58,7 +58,7 @@ cudnn下载需要先注册登录后才能下载，[cudnn官网](https://develope
 
 刚才下载的cudnn是个压缩文件，我在c盘根目录下建一个文件夹，命名位cudnn，解压出来是一个cuda文件夹：
 
-![](E:/documents/repositories/skills/images/83.png)
+![](./images/83.png)
 
 再添加三个环境变量：
 
