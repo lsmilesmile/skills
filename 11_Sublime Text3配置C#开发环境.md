@@ -22,7 +22,7 @@ start %~n1
 
 将C:\Windows\Microsoft.NET\Framework\v4.0.30319\这个路径添加进环境变量里。在环境变量的设置里选择Path
 
-![](./images/40.png)
+![](./imgs/11_imgs/1.jpg)
 
 ### 步骤三：
 
